@@ -193,6 +193,17 @@
 
             </ImageButton>
 
+            <ImageButton
+                android:id="@+id/ib_save"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:layout_marginRight="2dp"
+                android:scaleType="fitXY"
+                android:backgroundTint="@color/white"
+                android:src="@drawable/ic_save">
+
+            </ImageButton>
+
         </LinearLayout>
 
 
